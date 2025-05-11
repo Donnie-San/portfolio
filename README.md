@@ -1,0 +1,1 @@
+🤫 This project is basically the copy of Slaying The Dragon's Portfolio tutorial on Youtube. I followed his tutorial to get the feel of the workflow. I'm looking forward to making other projects, stay tuned!
