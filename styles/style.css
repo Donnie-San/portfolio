@@ -62,9 +62,9 @@ button {
 }
 
 a {
-    background-color: var(--clr-rose);
+    color: var(--clr-rose);
 }
 
 s {
-    background-color: var(--clr-indigo);
+    color: var(--clr-indigo);
 }
