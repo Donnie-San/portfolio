@@ -1,1 +1,2 @@
-🤫 This project is basically the copy of Slaying The Dragon's Portfolio tutorial on Youtube. I followed his tutorial to get the feel of the workflow. I'm looking forward to making other projects, stay tuned!
+🤫 This portfolio website is basically the copy of Slaying The Dragon's portfolio tutorial on Youtube. I followed his tutorial to get the feel of the workflow. His tutorials are the actual bomb, very concise, but packed. It being "packed" is a good thing, it bombards me with new ideas and techniques regarding Front-End Development. Anyways, enough bullshiting, tomorrow, I will update this project.
+Here is the link to his tutorial: https://www.youtube.com/watch?v=dLDn_k8GmaU&t=1669s 
