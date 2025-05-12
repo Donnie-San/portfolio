@@ -109,7 +109,7 @@
     }
 
     .about__description {
-        font-size: var(--clr-lg);
+        font-size: var(--size-lg);
     }
 
     .about__subtitle {
@@ -132,7 +132,7 @@
     }
 
     .about__description {
-        font-size: var(--clr-xl);
+        font-size: var(--size-xl);
     }
 
     .about__subtitle {
