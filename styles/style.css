@@ -27,6 +27,14 @@
     --size-10xl: 10rem;
 }
 
+.light-mode {
+    --clr-light: #020618;
+    --clr-dark: #f1f5f9;
+    --clr-slate400: #1d293d;
+    --clr-slate600: #1d293d;
+    --clr-slate800: #1d293d;
+}
+
 * {
     margin: 0;
     line-height: calc(1em + 0.5rem);
