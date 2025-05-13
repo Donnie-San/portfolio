@@ -4,6 +4,9 @@
     align-items: center;
     padding-top: 2rem;
     padding-bottom: 2rem;
+
+    position: relative;
+    z-index: 9999;
 }
 
 .header__menu {
@@ -11,9 +14,9 @@
 }
 
 .header__bars {
-    color: var(--clr-light);
-    width: var(--clr-2xl);
-    height: var(--clr-2xl);
+    color: var(--clr-slate600);
+    width: var(--size-2xl);
+    height: var(--size-2xl);
     display: block;
 }
 
@@ -56,6 +59,12 @@
         color: var(--clr-slate600);
         width: var(--size-base);
         height: var(--size-base);
+
+        transition: color 0.3s;
+    }
+
+    .header__sun:hover {
+        color: var(--clr-rose);
     }
 
     .header__resume {
